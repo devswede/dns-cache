@@ -1,0 +1,27 @@
+{
+  "name": "dns-cache",
+  "version": "1.0.0",
+  "description": "Simple DNS cache for Node.js",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test" : "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devswede/dns-cache"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "dns"
+  ],
+  "author": "DevSwede <devswede@gmail.com> (http://www.devswede.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devswede/dns-cache/issues"
+  },
+  "homepage": "http://www.devswede.com"
+}
