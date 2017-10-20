@@ -1,10 +1,10 @@
 {
   "name": "dns-cache",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Simple DNS cache for Node.js",
   "main": "index.js",
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 0.12.0"
   },
   "scripts": {
     "test" : "node ./test"

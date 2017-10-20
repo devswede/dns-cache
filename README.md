@@ -11,6 +11,13 @@ The cache will increase performance and eliminate [DNS lookup conflicts](https:/
 $ npm install dns-cache
 ```
 
+## Compatibility
+
+For Node.js 0.10 and older, user dns-cache version 1.0.0.
+
+Dns-cache 2.0.0 is not backwards compatible with the 
+changes introduced to dns.lookup in Node.js version 0.12.
+
 ## Usage
 
 Just require dns-cache on application start.
